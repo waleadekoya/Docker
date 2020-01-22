@@ -11,4 +11,4 @@ Task Lists:
 - [ ] Add a Relational database `MySQL`, `PostgreSQL`
 - [ ] Demo with NoSQL database (i.e) `MongoDB`
 - [ ] Use `Gunicorn` instead of `uwsgi`
-- [ ] Create production environment flask web application
+- [ ] Create production prototype flask web application
